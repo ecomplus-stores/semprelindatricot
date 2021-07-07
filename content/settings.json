@@ -1,24 +1,24 @@
 {
-  "store_id": 4276,
-  "name": "semprelindatricot",
   "domain": "semprelindatricot.netlify.app",
-  "short_name": "semprelindatricot",
-  "description": "semprelindatricot",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#e1907f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#1f1e1e",
+  "repository": "ecomplus-stores/semprelindatricot",
+  "logo": "/img/uploads/logo_v1.png",
+  "name": "semprelindatricot",
+  "short_name": "semprelindatricot",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo_v1.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/semprelindatricot"
+  "secondary_color": "#79dbec",
+  "icon": "/img/uploads/logo_v1.png",
+  "store_id": 4276,
+  "description": "semprelindatricot",
+  "large_icon": "/img/uploads/logo_v1.png"
 }
