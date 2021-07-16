@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4997cf19900efa0c1cbfedd7588e951e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.03e638faa395d8b097bc717d6cdc4112.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.96895a69ffd399408c7615cad6965d03.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.525c78e2d1667b4a68bc11169fc85af8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b99118dc5da14dd92a2f3ece468f8a41.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "semprelindatricot",
+  "short_name": "semprelindatricot",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "semprelindatricot",
+  "background_color": "#1f1e1e",
+  "theme_color": "#e1907f"
+}
